@@ -24,8 +24,8 @@ This program provides a simple yet powerful mechanism to store and verify u64 va
 
 ```bash
 # Clone the repository
-git clone https://github.com/jozef-pridavok/arbitrage-programs
-cd arbitrage-programs
+git clone https://github.com/jozef-pridavok/pinocchio-record
+cd pinocchio-record
 
 # Build the program
 cargo build-bpf
